@@ -3,12 +3,6 @@
 .quarto/
 /.joblib
 /_extensions/
-published-202304-gimenez-lynx.html
-published-202304-gimenez-lynx.ipynb
-published-202304-gimenez-lynx.tex
-published-202301-gimenez-lynx_files/
-published-202301-gimenez-lynx_files/*
-published-202301-gimenez-lynx_files/*/
+*_files/
 /.quarto/
-
 .Rproj.user
